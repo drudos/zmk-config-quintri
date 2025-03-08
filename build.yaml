@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: quin3_left
+    shield: quintri2_left
   - board: nice_nano_v2
-    shield: quin3_right
+    shield: quintri2_right
   - board: nice_nano_v2
     shield: settings_reset
